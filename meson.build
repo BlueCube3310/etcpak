@@ -8,6 +8,8 @@ sources = [
     'ColorSpace.cpp',
     'DataProvider.cpp',
     'Debug.cpp',
+    'DecodeDxtc.cpp',
+    'DecodeRGB.cpp',
     'Dither.cpp',
     'Error.cpp',
     'mmap.cpp',
